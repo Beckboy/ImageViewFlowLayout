@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="f_24">11sp</dimen>
+    <dimen name="f_34">16sp</dimen>
+
+    <dimen name="dimen_20px">10dp</dimen>
+    <dimen name="dimen_24px">12dp</dimen>
+    <dimen name="dimen_26px">13dp</dimen>
+    <dimen name="dimen_30px">15dp</dimen>
+    <dimen name="dimen_40px">20dp</dimen>
+    <dimen name="dimen_50px">25dp</dimen>
+    <dimen name="dimen_100px">50dp</dimen>
+    <dimen name="dimen_220px">110dp</dimen>
+
+</resources>
